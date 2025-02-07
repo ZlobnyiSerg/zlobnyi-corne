@@ -46,7 +46,7 @@
             mods = <(MOD_LSFT|MOD_RSFT)>;
         };
     };
-}
+};
 
 / {
     conditional_layers {
